@@ -2,7 +2,7 @@
 
 Windows 10 1809 及以上／Windows 11 x64；Apple 芯片 Mac，macOS 15 及以上。
 
-[下载安装包](https://github.com/MUFC1827/MemoUnited-Updates/releases/tag/v6.1.1)
+[下载安装包](https://github.com/MUFC1827/MemoUnited-Updates/releases/tag/v6.2.0)
 
 - Windows：运行 `MemoUnited_Release_x64_Setup.exe`。
 - Apple 芯片 Mac：打开 `MemoUnited_macOS_arm64.dmg`，将应用拖入 Applications。
@@ -13,6 +13,7 @@ Mac 安装包使用 ad-hoc 签名，尚未公证；系统阻止首次打开时�
 Memo 与 Muse 的「设置 → 快捷键」可以修改组合；Mac 使用 Control 键。
 
 6.1.0 起，在设置中打开「更新」，选择「检查更新」和「更新并重启」。
+6.2.0 起可选择启动时、每天或每周检查，并开启空闲自动安装。
 旧版需要先安装一次带更新器的新版；升级保留本机个人数据。
 迁移至新版后，请勿手动安装旧的 6.0 客户端。
 
