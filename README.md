@@ -2,7 +2,7 @@
 
 Windows 10 1809 及以上／Windows 11 x64；Apple 芯片 Mac，macOS 15 及以上。
 
-[下载安装包](https://github.com/MUFC1827/MemoUnited-Updates/releases/tag/v7.0.1)
+[下载安装包](https://github.com/MUFC1827/MemoUnited-Updates/releases/tag/v7.0.2)
 
 - Windows：运行 `MemoUnited_Release_x64_Setup.exe`。
 - Apple 芯片 Mac：打开 `MemoUnited_macOS_arm64.dmg`，将应用拖入 Applications。
@@ -23,3 +23,4 @@ Memo 与 Muse 的「设置 → 快捷键」可以修改组合；Mac 使用 Contr
 `stable` 的 `latest.json` 提供签名更新信息；版本 Release 中保留对应清单。
 Mac `.app.zip` 供更新器使用；初次安装使用 DMG。
 6.3.4 起优先下载与已安装版本匹配的增量包；无法复用时自动使用完整包。
+Windows runtime ZIP 供支持后台准备的新版更新器使用；初次安装仍使用 Setup。
