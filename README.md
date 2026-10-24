@@ -2,7 +2,7 @@
 
 Windows 10 1809 及以上／Windows 11 x64；Apple 芯片 Mac，macOS 15 及以上。
 
-[下载安装包](https://github.com/MUFC1827/MemoUnited-Updates/releases/tag/v7.1.1)
+[下载安装包](https://github.com/MUFC1827/MemoUnited-Updates/releases/tag/v7.1.2)
 
 - Windows：运行 `MemoUnited_Release_x64_Setup.exe`。
 - Apple 芯片 Mac：打开 `MemoUnited_macOS_arm64.dmg`，将应用拖入 Applications。
