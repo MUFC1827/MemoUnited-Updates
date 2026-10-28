@@ -1,0 +1,18 @@
+name: MemoUnited Mac release host check
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  host:
+    name: Check standard Apple Silicon release host
+    runs-on: macos-15
+    timeout-minutes: 3
+    steps:
+      - name: Verify release host
+        shell: bash
+        run: |
+          set -euo pipefail
+          test "$(uname -s)" = Darwin
+          test "$(uname -m)" = arm64
+          echo 'MemoUnited standard Apple Silicon release host is available.'
